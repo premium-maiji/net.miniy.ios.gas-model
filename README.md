@@ -5,7 +5,6 @@
 ## モデル
 
 - `model/best.pt` - YOLOv8nベースの価格看板検出モデル
-- `model/best.mlmodel` - iOS / Core ML 用に変換したモデル
 
 ## クラス
 
